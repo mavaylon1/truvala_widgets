@@ -1,0 +1,17 @@
+{
+  "listing_id": "4821-lemon-ave",
+  "address": "4821 Lemon Ave",
+  "city": "Riverside",
+  "state": "CA",
+  "cityState": "Riverside, CA",
+  "zip": "92504",
+  "price": 485000,
+  "priceFormatted": "$485,000",
+  "lat": 33.882,
+  "lng": -117.566,
+  "beds": 4,
+  "baths": 2,
+  "sqft": 2184,
+  "type": "Single Family",
+  "year_built": 1978
+}

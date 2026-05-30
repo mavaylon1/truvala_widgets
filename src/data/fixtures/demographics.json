@@ -1,0 +1,12 @@
+{
+  "population": 42800,
+  "median_household_income": 67400,
+  "owner_occupied_pct": 56,
+  "ethnicity": {
+    "Hispanic": 49.2,
+    "White": 28.4,
+    "Black": 7.8,
+    "Asian": 6.9,
+    "Other": 7.7
+  }
+}

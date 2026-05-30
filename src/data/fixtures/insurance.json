@@ -1,0 +1,10 @@
+{
+  "flood_zone": "X",
+  "flood_zone_description": "Minimal Flood Hazard",
+  "flood_risk": "low",
+  "wildfire_risk": "moderate",
+  "wildfire_risk_description": "Some wildfire risk — standard insurance applies",
+  "earthquake_risk": "moderate",
+  "air_quality_index": 78,
+  "air_quality_label": "Moderate"
+}

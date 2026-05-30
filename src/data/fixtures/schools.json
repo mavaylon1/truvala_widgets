@@ -1,0 +1,5 @@
+[
+  { "name": "Jefferson Elementary", "score": 7, "distance": "0.3mi", "grade": "K–5", "district": "Riverside USD" },
+  { "name": "Franklin Middle", "score": 6, "distance": "0.7mi", "grade": "6–8", "district": "Riverside USD" },
+  { "name": "Riverside Poly High", "score": 8, "distance": "1.4mi", "grade": "9–12", "district": "Riverside USD" }
+]

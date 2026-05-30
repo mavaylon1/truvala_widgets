@@ -1,0 +1,35 @@
+{
+  "walkability_score": 62,
+  "walkability_label": "Somewhat Walkable",
+  "gyms": [
+    { "name": "Planet Fitness", "distance": "0.6mi" },
+    { "name": "24 Hour Fitness", "distance": "1.1mi" },
+    { "name": "Anytime Fitness", "distance": "1.8mi" }
+  ],
+  "parks": [
+    { "name": "Sycamore Canyon Wilderness Park", "distance": "0.9mi" },
+    { "name": "Fairmount Park", "distance": "1.4mi" },
+    { "name": "Bordwell Park", "distance": "1.7mi" }
+  ],
+  "grocery_stores": [
+    { "name": "Stater Bros.", "distance": "0.4mi" },
+    { "name": "Walmart Supercenter", "distance": "0.8mi" },
+    { "name": "Smart & Final", "distance": "1.2mi" }
+  ],
+  "libraries": [
+    { "name": "Riverside Central Library", "distance": "1.6mi" },
+    { "name": "La Sierra Branch Library", "distance": "2.1mi" }
+  ],
+  "airports": [
+    { "name": "Riverside Municipal Airport", "distance": "4.2mi" },
+    { "name": "Ontario International Airport", "distance": "18mi" },
+    { "name": "LAX", "distance": "57mi" }
+  ],
+  "cuisine_distribution": {
+    "Mexican": 34,
+    "American": 28,
+    "Asian": 18,
+    "Italian": 12,
+    "Other": 8
+  }
+}

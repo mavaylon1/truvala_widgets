@@ -1,0 +1,8 @@
+{
+  "annual_production_kwh": 8400,
+  "monthly_savings": 165,
+  "system_cost": 18000,
+  "offset_pct": 94,
+  "break_even_year": 9,
+  "co2_offset_lbs_per_year": 6720
+}
